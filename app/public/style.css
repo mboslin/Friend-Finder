@@ -1,13 +1,13 @@
 #jumboText {
     background-size: 100% 100%;
-    color: white;
+    color: black;
     padding-left: 30%;
     padding-top: 100px;
-    height: 700px;
+    height: 400px;
 }
 
 #topHeader {
-    background-color: white;
+    background-color: blue;
     font-size: 20px;
 }
 
